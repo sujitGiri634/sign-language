@@ -16,14 +16,8 @@ The Sign Language Translator is my final project for Grade 12 Computer Science a
 - [x] Simple User Interface
 - [x] Comprehensive Commenting
 
-## Live Sign Translator on https://bit.ly/2CwPvgP
-
 ## To Run locally 
 Open `index.html` in Chrome.<br/>
 *NOTE:* This will disable video call functionality.
 
-## To Run on http://localhost:9966/
-```
-npm install
-npm start
-```
+
